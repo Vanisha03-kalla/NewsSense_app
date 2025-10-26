@@ -9,7 +9,7 @@ The project uses TF-IDF vectorization for text preprocessing and a logistic regr
 
 🗞️ Input any news article text and get instant results.
 
-🤖 Machine Learning model trained using Logistic Regression / Naive Bayes (depending on your setup).
+🤖 Machine Learning model trained using Logistic Regression .
 
 🧩 TF-IDF Vectorization for feature extraction.
 
@@ -17,4 +17,4 @@ The project uses TF-IDF vectorization for text preprocessing and a logistic regr
 
 💾 Model & vectorizer stored using joblib for quick loading.
 
-📊 Evaluation metrics like accuracy, precision, recall, and F1-score.
+📊 Evaluation metrics like accuracy and F1-score.
