@@ -1,4 +1,6 @@
 # news-authenticity-detector
+🔗 Live App: https://newssenseappgit-s54gcxo7ywvqowwbpprac5.streamlit.app/
+
 A smart ML-powered web app that detects whether a news article is real or fake using Natural Language Processing and Streamlit.
 
 NewsSense app is a machine learning–based web application designed to identify fake or misleading news articles.
